@@ -20,7 +20,7 @@ Return the results derived.
 ## SARSA LEARNING FUNCTION
 ### Name: BALASUBRAMANIAM L
 ### Register Number: 212224240020
-```
+```python
 def sarsa(env,
           gamma=1.0,
           init_alpha=0.5,
